@@ -1,0 +1,70 @@
+<resources>
+
+    <string name="cancel">Cancel</string>
+
+
+
+    <!-- COMMON -->
+    <string name="app_name">Tip Calculator</string>
+    <string name="back">Back</string>
+
+
+
+    <!-- MAIN -->
+    <string name="titleMain">Calculator</string>
+
+    <string name="settings">Settings</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+
+    <string name="bill">Bill Amount</string>
+    <string name="billHint">20.00</string>
+
+    <string name="split">Split:</string>
+    <string name="splitHint">1</string>
+
+    <string name="tipPercentage">Tip Percentage (%):</string>
+    <string name="tipPercentageHint">15</string>
+
+    <string name="suggest">Need Suggestions on Tip?</string>
+    <string name="rate">Rate Your Service Here!</string>
+
+    <string name="emptyAmount">0.00</string>
+
+
+
+    <!-- SUMMARY -->
+    <string name="titleSummary">Summary</string>
+
+    <string name="billAmount">Bill Amount:</string>
+    <string name="tip">Tip Amount:</string>
+    <string name="taxPercentage">Tax Percentage:</string>
+    <string name="total">Total:</string>
+
+    <string name="billSplit">Bill Per Person:</string>
+    <string name="tipSplit">Tip Per Person:</string>
+    <string name="totalSplit">Total Per Person:</string>
+
+
+
+    <!-- SETTINGS -->
+    <string name="titleSettings">Settings</string>
+
+    <string name="save">SAVE</string>
+
+    <string name="defaultTipPercentage">Default Tip Percentage (%):</string>
+    <string name="defaultTaxPercentage">Default Tax Percentage (%):</string>
+    <string name="defaultCurrency">Default Currency:</string>
+
+    <string name="taxPercentageHint">13</string>
+
+    <string name="currencyDollar">Dollar</string>
+    <string name="currencyEuro">Euro</string>
+    <string name="currencyPound">Pound</string>
+    <string name="symbolDollar">$</string>
+    <string name="symbolEuro">€</string>
+    <string name="symbolPound">£</string>
+
+    <string name="explain">By specifying default percentages, these will be automatically auto filled next time the application is used. But you can always change it as you want!</string>
+
+</resources>
